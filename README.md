@@ -1,1 +1,3 @@
-another readme fot 0x01.git
+
+echo "It’s time to code!"
+
